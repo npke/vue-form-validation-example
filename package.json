@@ -1,0 +1,23 @@
+{
+  "name": "vue-validate-example",
+  "version": "1.0.0",
+  "description": "Simple form validation with VueJS and Joi",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "webpack-dev-server",
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "joi": "^13.0.2",
+    "vue": "^2.5.13",
+    "vue-loader": "^13.6.1",
+    "vue-template-compiler": "^2.5.13",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  }
+}
